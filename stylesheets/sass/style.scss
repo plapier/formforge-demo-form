@@ -1,0 +1,10 @@
+@import "bourbon/bourbon";
+@import "bitters/bitters";
+
+form {
+  max-width: 600px;
+}
+textarea {
+  height: 200px;
+  line-height: 1.5em;
+}
